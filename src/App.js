@@ -8,7 +8,6 @@ function App() {
 
   const inputEvent = (event) =>{
     setAdd(event.target.value);
-    console.log(event.target.value);
   }
 
   const addItems = () =>{
